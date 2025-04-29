@@ -19,7 +19,7 @@
 
 📬 **Let’s Connect**
 - Email: dylannan52@gmail.com
-- LinkedIn: [[your LinkedIn URL](https://www.linkedin.com/in/dylan-nanthavongdouangsy/)]
+- LinkedIn: [[HERE](https://www.linkedin.com/in/dylan-nanthavongdouangsy/)]
 
 ---
 
