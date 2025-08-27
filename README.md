@@ -9,7 +9,11 @@
 ---
 💻 **Languages I Use** 
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </p>
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,js,css,bootstrap,cpp,dotnet,java&theme=dark" />
+  </a>
+</p>
 
 ---
 🔧 **Current Focus**
@@ -28,8 +32,8 @@
 - Documentation on my journey on becoming a full stack engineer
 
 📬 **Let’s Connect**
-- Email: [[HERE](dylannan52@gmail.com)]
-- LinkedIn: [[HERE](https://www.linkedin.com/in/dylan-nanthavongdouangsy/)]
+- Email: [[dylannan52@gmail.com](dylannan52@gmail.com)]
+- LinkedIn: [[Dylan Nanthavongdouangsy](https://www.linkedin.com/in/dylan-nanthavongdouangsy/)]
 
 ---
 
