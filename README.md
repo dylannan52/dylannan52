@@ -2,7 +2,7 @@
 
 🎓 Upcoming Graduate at the University of Houston
 
-🎯 Aspiring Full Stack Engineer — Turning ☕ and code into user-friendly apps, one bug at a time.
+💼 Full Stack Engineer — Turning ☕ and code into user-friendly apps, one bug at a time.
 
 ☕ Coffee Addict — Will refactor for espresso. Seriously.
 
@@ -17,9 +17,9 @@
 
 ---
 🔧 **Current Focus**
-- Preparing for a potential internships through Leetcode and personal projects
+- Learning as much as possible as a Full Stack Developer with The Girl Scouts Of San Jacinto Council
 - Learning more about tools and tech stacks used in software development
-- Strengthening my skills in Java, JavaScript, C++, SQL
+- Strengthening my skills in C#, .NET, Java, JavaScript, C++, SQL
 
 💼 **Past Experience**
 - Created Google App Scripts (JavaScript) to automate email sorting processes with no need for any future maintanence.
